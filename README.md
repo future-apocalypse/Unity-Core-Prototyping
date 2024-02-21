@@ -26,7 +26,8 @@ For understanding correctly here are some screens from Destiny 2 devs. [Link to 
 
 
 
-> [!TIP] You can save these images for later use on your pc for referencing.
+> [!TIP] 
+>You can save these images for later use on your pc for referencing.
 
 
 
