@@ -18,3 +18,12 @@ In **Unreal Engine** equivalent is [**Geometry Brushes**](https://docs.unrealeng
 For understanding correctly here are some screens from Destiny 2 devs. [Link to original post.](https://www.artstation.com/artwork/VdWZe4)
  <img align="center" width="100%" src="https://github.com/future-apocalypse/Unity-Core-Prototyping/blob/main/Resources/jeff-horal-m-016-copy.jpg"/>
 <img align="center" width="100%" src="https://github.com/future-apocalypse/Unity-Core-Prototyping/blob/main/Resources/jeff-horal-m-021-copy.jpg"/>
+
+##
+
+## How to start prototyping/grayboxing.
+>Here are some diagrams made by myself to show the basic steps.
+
+
+<img align="center" width="100%" src="https://github.com/future-apocalypse/Unity-Core-Prototyping/blob/main/Resources/Project-Core-1.png"/>
+<img align="center" width="100%" src="https://github.com/future-apocalypse/Unity-Core-Prototyping/blob/main/Resources/Project-Core.png"/>
