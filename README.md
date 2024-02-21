@@ -8,10 +8,8 @@ Once the core mechanics are solidified through grayboxing, you can then proceed 
 > [!TIP]
   >For **Grayboxing** in Unity you can use [**ProBuilder**](https://unity.com/features/probuilder).
 In **Unreal Engine** equivalent is [**Geometry Brushes**](https://docs.unrealengine.com/4.27/en-US/Basics/Actors/Brushes/).
-
-
-  >
+>
 >**> ProBuilder** is a unique hybrid of 3D modeling and level design tools, optimized for building simple geometry but capable of detailed editing and UV unwrapping too.
-
+>
 >**> Geometry Brushes** are a set of basic 3D modeling tools that allow developers to create simple geometric shapes and structures directly within the engine.
 
