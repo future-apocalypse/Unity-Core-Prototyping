@@ -1,4 +1,4 @@
-# Game-Core-Prototyping
+# Unity-Core-Prototyping
 
 In game development, **core prototyping** often involves creating **graybox** or **grayboxing**. **Grayboxing** is a term used to describe the process of building a game prototype using simple, placeholder assets or basic geometric shapes to represent elements in the game world. It helps developers focus on refining gameplay mechanics, testing interactions, and iterating on the core functionality of the game without getting bogged down by detailed graphics or polished visuals.
 Once the core mechanics are solidified through grayboxing, you can then proceed to enhance the visual aspects of your game by replacing placeholders with your detailed models.
