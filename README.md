@@ -10,12 +10,14 @@ Once the core mechanics are solidified through grayboxing, you can then proceed 
   >For **Grayboxing** in Unity you can use [**ProBuilder**](https://unity.com/features/probuilder).
 In **Unreal Engine** equivalent is [**Geometry Brushes**](https://docs.unrealengine.com/4.27/en-US/Basics/Actors/Brushes/).
 >
-<details>
- <summary> >**> ProBuilder** is a unique hybrid of 3D modeling and level design tools, optimized for building simple geometry but capable of detailed editing and UV unwrapping too. <summary>
+<details> **ProBuilder** is a unique hybrid of 3D modeling and level design tools, optimized for building simple geometry but capable of detailed editing and UV unwrapping too.
+<img align="center" width=50% src="https://github.com/future-apocalypse/Unity-Core-Prototyping/blob/main/Resources/create-stairs.gif"/>
+ <summary>**ProBuilder**<summary>
+
 
 >
-<details>
- <summary> >**> Geometry Brushes** are a set of basic 3D modeling tools that allow developers to create simple geometric shapes and structures directly within the engine. <summary>
+<details>**Geometry Brushes** are a set of basic 3D modeling tools that allow developers to create simple geometric shapes and structures directly within the engine. 
+ <summary>**Geometry Brushes**<summary>
 
 
 For understanding correctly here are some screens from Destiny 2 devs. [Link to original post.](https://www.artstation.com/artwork/VdWZe4)
