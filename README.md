@@ -12,12 +12,12 @@ In **Unreal Engine** equivalent is [**Geometry Brushes**](https://docs.unrealeng
 >
 <details> **ProBuilder** is a unique hybrid of 3D modeling and level design tools, optimized for building simple geometry but capable of detailed editing and UV unwrapping too.
 <img align="center" width=50% src="https://github.com/future-apocalypse/Unity-Core-Prototyping/blob/main/Resources/create-stairs.gif"/>
- <summary>**ProBuilder**<summary>
+ <summary>ProBuilder<summary>
 
 
 >
 <details>**Geometry Brushes** are a set of basic 3D modeling tools that allow developers to create simple geometric shapes and structures directly within the engine. 
- <summary>**Geometry Brushes**<summary>
+ <summary>Geometry Brushes<summary>
 
 
 For understanding correctly here are some screens from Destiny 2 devs. [Link to original post.](https://www.artstation.com/artwork/VdWZe4)
